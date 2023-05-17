@@ -18,7 +18,7 @@ class Comment extends BaseModel{
 }
 ```
 
-After creating a new Model write a static function --getTable()-- which will return 
+After creating a new Model write a static function ```getTable()``` which will return 
 the name of the table and youre done 
 
 ## API
